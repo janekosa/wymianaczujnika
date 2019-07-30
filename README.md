@@ -1,5 +1,5 @@
-# wymianaczujnika
-instrukcja wymiany czujnika ciśnienia oleju we Wranglerze JK 2.8 CRD
+# Wymiana czujnika
+## Instrukcja wymiany czujnika ciśnienia oleju we Wranglerze JK 2.8 CRD
 
 1. Kup czujnik w aso
 2. Zastanów się tak z pół godziny jak się do tego czujnika w ogóle dobrać
@@ -28,4 +28,4 @@ instrukcja wymiany czujnika ciśnienia oleju we Wranglerze JK 2.8 CRD
 25. Przy użyciu tak wykonanego narzędzia odegnij napinacz i załóż pasek
 26. Zamontuj z powrotem filtr powietrza
 
-W skrócie: prosta naprawa, polecam
+**W skrócie: prosta naprawa, polecam**
